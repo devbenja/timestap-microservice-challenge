@@ -4,6 +4,7 @@
   "description": "freecodecamp challenge for backend development and api projects certification",
   "main": "index.js",
   "scripts": {
+    "start": "node --watch index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/devbenja/timestap-microservice-challenge/issues"
   },
-  "homepage": "https://github.com/devbenja/timestap-microservice-challenge#readme"
+  "homepage": "https://github.com/devbenja/timestap-microservice-challenge#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0"
+  }
 }
