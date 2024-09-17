@@ -1,0 +1,19 @@
+{
+  "name": "timestap-microservice-challenge",
+  "version": "1.0.0",
+  "description": "freecodecamp challenge for backend development and api projects certification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devbenja/timestap-microservice-challenge.git"
+  },
+  "author": "benjadev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devbenja/timestap-microservice-challenge/issues"
+  },
+  "homepage": "https://github.com/devbenja/timestap-microservice-challenge#readme"
+}
